@@ -6,4 +6,4 @@ airflow-webserver.pid
 unittests.cfg
 airflow.db
 .cfg
-__pycache__/
+dags/__pycache__/
