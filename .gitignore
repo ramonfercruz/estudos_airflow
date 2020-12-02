@@ -7,3 +7,4 @@ unittests.cfg
 airflow.db
 .cfg
 dags/__pycache__/
+.pyc
